@@ -9,7 +9,24 @@
 - A Resource Group
 - A Storage Account
 
-- After the storage account is created, copy the url from the output, paste it in a browser.
+### Access the webpage
+
+- After the storage account is created, copy the **website-url** from the outputs, paste it in a browser.
+
+> the url should be in this format - https://staticwebsite9817.z13.web.core.windows.net/
+
+
+
+[!success](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/success.png)
+
+
+- Error page
+
+> To view the error page, append /error to the above url.
+
+
+
+[!error](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/error.png)
 
 
 ## After the deployment
