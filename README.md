@@ -17,7 +17,7 @@
 
 
 
-[!success](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/success.png)
+![success](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/success.png)
 
 
 - Error page
@@ -26,7 +26,7 @@
 
 
 
-[!error](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/error.png)
+![error](https://github.com/TerraformingCloud/StaticWebsite-on-Azure-Storage/blob/master/error.png)
 
 
 ## After the deployment
